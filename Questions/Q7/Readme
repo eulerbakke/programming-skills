@@ -1,0 +1,29 @@
+The solution used for this question was using UNION.
+
+Basically, two SELECT queries (one from Dogs table and another from Cats table) with UNION between them gave the expected solution.
+
+Example: 
+
+-- Table Dogs --
+ID  Name
+1   Zac
+2   Little
+3   Catt
+
+-- Table Cats --
+ID  Name
+1   Catt
+2   Meow
+3   Zac
+4   Catt
+
+-- SQL Query Result: --
+Name
+Catt
+Little
+Meow
+Zac
+
+
+
+Author: Euler Bakke
