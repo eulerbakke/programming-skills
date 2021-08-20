@@ -8,4 +8,6 @@ XOR port: Inputs: A, B. Output: C
 
 Details are described inside the code file, in the applicable lines.
 
+Link to code in gdbonline: https://onlinegdb.com/8iaDuMWBv
+
 Author: Euler Bakke
