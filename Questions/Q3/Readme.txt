@@ -14,4 +14,6 @@ The question examples are incomplete, but I've just considered the empty string 
 To tako it into account (together with the empty string case), we could just add this condition in the last else: ((k - perfectK)%2 == 0).
 
 
+Link to code in gdbonline: https://onlinegdb.com/KY9wnT2Por
+
 Author: Euler Bakke

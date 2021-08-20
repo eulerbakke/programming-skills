@@ -5,3 +5,5 @@ Comments:
 Basically, the polymorphism happens when two or more classes derived from a superclass respond in different ways, by applying the method overriding concept.
 An object of a superclass can behave as an object from its subclasses, responding according to its specific characteristics.
 The pillars of the polymorphism are class inheritance and methods overriding.
+
+Author: Euler Bakke
